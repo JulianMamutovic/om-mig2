@@ -1,0 +1,41 @@
+body {
+    background-image: url("https://wallpapersultra.net/wp-content/uploads/Awesome-Black-4K-HD-Wallpaper.jpg");
+    background-color: #000000;
+    font-family: 'Courier New', Courier, monospace;
+    margin: 10px;
+    font-size: 20px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: none;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 100px 150px;
+    text-decoration: none;
+    color: white;
+    text-shadow: 5px 5px 9px black, 0 0 25px blue, 0 0 5px darkblue;
+    font-size: 35px;
+}
+
+h1 {
+    font-size: 150px;
+    color: black;
+    text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+    font-family: 'Permanent Marker', cursive;
+}
+
+p {
+    text-decoration-color: aliceblue;
+}
